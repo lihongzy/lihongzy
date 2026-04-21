@@ -11,7 +11,7 @@ Hi, I'm a full-stack developer and a student at Hangzhou Dianzi University, curr
 
 <br/>
 
-[![Lihongzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihongzy&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Lihongzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihongzy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
