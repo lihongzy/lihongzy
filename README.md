@@ -11,8 +11,12 @@ Hi, I'm a full-stack developer and a student at Hangzhou Dianzi University, curr
 
 <br/>
 
-[![Lihongzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihongzy&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e&ring_color=38bdf8)](https://github.com/anuraghazra/github-readme-stats)
+[![Lihongzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihongzy&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/lihongzy/lihongzy/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lihongzy/lihongzy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lihongzy/lihongzy/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lihongzy/lihongzy/output/github-contribution-grid-snake.svg" />
+</picture>
