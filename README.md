@@ -1,16 +1,18 @@
-## Hi there 👋
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lihongzy&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
-<!--
-**lihongzy/lihongzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+Hi, I'm a full-stack developer and a student at Hangzhou Dianzi University, currently focused on exploring and building with AI agents.
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on full-stack projects and personal experiments
+- 🌱 Currently researching and building with AI agents
+- 🤝 Open to interesting ideas, collaboration, and creative side projects
+- 🧠 Prefer building things that are useful, clear, and enjoyable to make
+- 📫 Reach me here: [GitHub](https://github.com/lihongzy)
+
+<br/>
+
+[![Lihongzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihongzy&count_private=true&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e&ring_color=38bdf8)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/lihongzy/lihongzy/output/github-contribution-grid-snake-dark.svg)
